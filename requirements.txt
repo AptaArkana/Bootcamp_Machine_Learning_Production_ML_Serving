@@ -1,0 +1,11 @@
+emoji==2.12.1
+fastapi==0.111.0
+joblib==1.4.2
+pyprojroot==0.3.0
+Sastrawi==1.0.1
+Sastrawi==1.0.1
+uvicorn==0.30.1
+regex==2024.5.15
+nltk==3.8.1
+numpy==1.26.4
+pickleshare==0.7.5
